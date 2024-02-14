@@ -1,0 +1,6 @@
+the Hs gor in order like thus. 1 2 3, lrge medium small, most important to least important
+{} used in css, called a selector
+color prop, selected value
+<br> adds physical space on the document itself
+<i></i> is for italics
+<b></b> is for bolding words inside the document
