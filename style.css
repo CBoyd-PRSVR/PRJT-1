@@ -1,6 +1,6 @@
 h1{
 font-size: 75px;
-    color:olive
+    color:slategray
 }
 
 i{
@@ -8,7 +8,7 @@ i{
 }
 
 header{
-    background: linear-gradient(110deg yellow 40%, pink 40%)
+    background: linear-gradient(110deg, cornflowerblue 40%, rgb(246, 246, 113) 40%)
 }
 
 section{
@@ -18,4 +18,17 @@ section{
 footer{
     background: black;
     color: white
+}
+
+div{
+    text-align:center;
+    padding: 40px;
+}
+
+h3{
+   border: 2px solid grey ; 
+   padding: 15px;
+   font-size: 45px;
+   margin: auto;
+   max-width: 400px;
 }
